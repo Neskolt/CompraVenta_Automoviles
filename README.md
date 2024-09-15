@@ -1,5 +1,5 @@
 #Introduccion Este es un proyecto del instituto Virginio Gomez, el proyecto es una aplicacion de escritorio para el manejo de las ventas de los automoviles. Para el desarollo del programa se uso WindowsForms y C#
-sobre mas dudas contactar con mi discord= Adaahlor
+sobre mas dudas contactar con mi discord = Adaahlor
 
 #Requerimientos Para poder compilar la aplicacion es necesario tener visual studio e instalar los complementos de c# para el desarrollo de windowsforms.
 
