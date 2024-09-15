@@ -8,3 +8,5 @@ sobre mas dudas contactar con mi discord = Adaahlor
 #Uso Para poder ingresar una venta se debe tener un vehiculo y un cliente previamente ingresados, si no se ingreso un cliente se mostraran 5 clientes de forma automatica esto no pasa con los vehiculos, estos deben ser ingresados en su screen
 respectiva.
 
+#Agradecimientos especiales a gcarol0 por ayudar a la par con la creacion del proyecto
+
